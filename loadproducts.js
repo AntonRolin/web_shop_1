@@ -5,7 +5,7 @@ document.getElementById('dropdownMenu').addEventListener('click', function (e) {
     e.stopPropagation();
   });
 
-const url = 'http://webacademy.se/fakestore/';
+const url = 'https://webacademy.se/fakestore/';
 let allProducts; 
 let productsInCart = [];
 
